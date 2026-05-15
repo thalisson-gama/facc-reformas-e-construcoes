@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(ls \"C:\\\\Users\\\\Pedro Rafachine\\\\AppData\\\\Roaming\\\\Claude\\\\local-agent-mode-sessions\\\\skills-plugin\\\\fe64a797-2f03-462e-9605-32e75f36665a\\\\a92f2fe8-482e-4f9d-9462-594b48143a96\\\\skills\\\\instalarwebhook\")"
-    ]
-  }
-}
